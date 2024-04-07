@@ -1,0 +1,1 @@
+export const API_URL = (query: string) => `https://dummyjson.com/users/search?q=${query}`;
